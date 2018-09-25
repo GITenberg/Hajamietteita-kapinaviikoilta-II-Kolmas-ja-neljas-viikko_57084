@@ -1,5 +1,8 @@
 _repo: Hajamietteita-kapinaviikoilta-II-Kolmas-ja-neljas-viikko_57084
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aho, Juhani
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Juhani_Aho
     - http://fi.wikipedia.org/wiki/Juhani_Aho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57084#Hajamietteita-kapinaviikoilta-II-Kolmas-ja-neljas-viikko
 gutenberg_issued: '2018-05-03'
 gutenberg_type: Text
 identifiers:
